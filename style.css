@@ -1,0 +1,26 @@
+
+body{
+    background-color: black; /*this represents the color of the background of your web page*/
+}
+h1{
+    color:lawngreen; /*this represents the color of the header(h1) text*/
+    font-family: "Press Start 2P"; /*this is the font type/style used fore h1*/
+    
+}
+h1{
+    text-align: center; /*this is to align the header(h1)to the center of the page*/
+    font-family: "Press Start 2P";
+}
+h3{
+    color:lawngreen; 
+    font-family: "Press Start 2P";
+}
+
+p{
+    color: white;/*the color of the paragraph(<p></p>)*/
+    font-family: "Intel One Mono"; /*the type of font used for the paragraph*/
+}
+li{
+    color:white;/*the color of text within the list*/
+    font-family: "Intel One Mono";/*the type of font used*/
+}
